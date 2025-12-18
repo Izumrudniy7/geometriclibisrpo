@@ -38,3 +38,7 @@
 * `4572684e74dc9bff69e1c1b3865bc2527b98e115` — added square.py
 * `8b9f89d9120b4ec0772e4bff52aafb78e6893feb` — added rectangle.py
 * `da966447fc57b8466e6c9d4d7ceca885efa0dfca` — added triangle.py
+
+# Заголовок 1
+## Заголовок 2
+### Заголовок 3
